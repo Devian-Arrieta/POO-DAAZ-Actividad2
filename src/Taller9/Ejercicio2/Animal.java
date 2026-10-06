@@ -2,7 +2,7 @@ package Taller9.Ejercicio2;
 
 public class Animal {
 
-    String especie;
+    protected String especie;
 
     public Animal(String especie){
         this.especie = especie;

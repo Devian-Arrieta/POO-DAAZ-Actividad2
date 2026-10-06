@@ -2,7 +2,7 @@ package Taller9.Ejercicio1;
 
 public class Empleado extends Persona {
 
-    String departamento;
+    private String departamento;
 
     public Empleado(String nombre, int edad, String departamento){
         super(nombre, edad);

@@ -2,8 +2,8 @@ package Taller9.Ejercicio1;
 
 public class Persona {
 
-    String nombre;
-    int edad;
+    protected String nombre;
+    protected int edad;
 
     public Persona(String nombre, int edad){
         this.nombre = nombre;

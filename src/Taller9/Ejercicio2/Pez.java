@@ -2,7 +2,7 @@ package Taller9.Ejercicio2;
 
 public class Pez extends Animal{
 
-    String tipoDeAgua;
+    private String tipoDeAgua;
 
     public Pez(String especie, String tipoDeAgua){
         super(especie);
